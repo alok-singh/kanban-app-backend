@@ -1,6 +1,6 @@
 ## Setup Instructions
 
-# Unzip the project.
+# Clone the project.
 - Run npm install to install dependencies.
 - Ensure PostgreSQL is running and create a database named taskboard.
 - Execute the SQL in models/init.sql to create tables.
